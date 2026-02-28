@@ -27,6 +27,9 @@ A clean and modern Profile Card UI design built using HTML and CSS.
 
 - UI layout structuring
 
+## 🚀 Live Demo
+🔗 https://shalumuskan465.github.io/Profile-Card-UI/
+
 👩‍💻 Author
 
 Made with ❤️ by Shalu Muskan
